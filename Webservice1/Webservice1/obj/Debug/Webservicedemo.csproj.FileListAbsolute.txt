@@ -1,0 +1,4 @@
+G:\16ce058\Webservice1\Webservice1\bin\Webservice1.dll
+G:\16ce058\Webservice1\Webservice1\bin\Webservice1.pdb
+G:\16ce058\Webservice1\Webservice1\obj\Debug\Webservice1.dll
+G:\16ce058\Webservice1\Webservice1\obj\Debug\Webservice1.pdb

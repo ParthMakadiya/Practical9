@@ -1,0 +1,5 @@
+G:\16ce058\Webservice1\WebApplication1\bin\WebApplication1.dll
+G:\16ce058\Webservice1\WebApplication1\bin\WebApplication1.pdb
+G:\16ce058\Webservice1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\16ce058\Webservice1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\16ce058\Webservice1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
